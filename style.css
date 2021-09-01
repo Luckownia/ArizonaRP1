@@ -211,7 +211,6 @@ input[type="checkbox"] {
     background-color: #5f5b5b;
     display: block;
     cursor: pointer;
-    z-index: 5;
 }
 
 .btn-switch-mode .circle {
