@@ -380,7 +380,7 @@ input[type="checkbox"]:checked~.btn-switch-mode .circle {
     top: 9%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    width: 50vw;
+    width: 42vw;
     height: 70vh;
 }
 
